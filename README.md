@@ -31,8 +31,11 @@
 [latest release badge]: https://flat.badgen.net/github/release/invoke-ai/InvokeAI/development?icon=github
 [latest release link]: https://github.com/invoke-ai/InvokeAI/releases
   
-[My Pasted Youtube Link- For info]: https://www.youtube.com/watch?v=SWlxUMPQmbM
+[My Pasted Youtube Link For info]: https://www.youtube.com/watch?v=SWlxUMPQmbM
 </div>
+
+[My Pasted Youtube Link For info]: https://www.youtube.com/watch?v=SWlxUMPQmbM
+[[My Pasted Youtube Link For info](#YT LINK)] [<a href="https://www.youtube.com/watch?v=SWlxUMPQmbM">YT LINK</a>]
 
 InvokeAI is a leading creative engine built to empower professionals and enthusiasts alike. Generate and create stunning visual media using the latest AI-driven technologies. InvokeAI offers an industry leading Web Interface, interactive Command Line Interface, and also serves as the foundation for multiple commercial products.
 
