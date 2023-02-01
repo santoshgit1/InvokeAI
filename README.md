@@ -4,6 +4,8 @@
 
 # InvokeAI: A Stable Diffusion Toolkit
 
+![My Pasted Youtube Link- For info](https://www.youtube.com/watch?v=SWlxUMPQmbM)
+
 [![discord badge]][discord link]
 
 [![latest release badge]][latest release link] [![github stars badge]][github stars link] [![github forks badge]][github forks link]
