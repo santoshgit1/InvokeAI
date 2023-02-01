@@ -4,7 +4,7 @@
 
 # InvokeAI: A Stable Diffusion Toolkit
 
-![My Pasted Youtube Link- For info](https://www.youtube.com/watch?v=SWlxUMPQmbM)
+
 
 [![discord badge]][discord link]
 
@@ -32,6 +32,8 @@
 [latest release link]: https://github.com/invoke-ai/InvokeAI/releases
 
 </div>
+
+![My Pasted Youtube Link- For info](https://www.youtube.com/watch?v=SWlxUMPQmbM)
 
 InvokeAI is a leading creative engine built to empower professionals and enthusiasts alike. Generate and create stunning visual media using the latest AI-driven technologies. InvokeAI offers an industry leading Web Interface, interactive Command Line Interface, and also serves as the foundation for multiple commercial products.
 
